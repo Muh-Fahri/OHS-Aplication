@@ -1,0 +1,18 @@
+ .brand-image .logo-small {
+    width: 10px !important;
+    height: 50px !important;
+    border-radius: 0 !important;
+}
+
+.main-sidebar {
+    background-color: #1f2937; /* abu gelap */
+}
+
+.nav-sidebar .nav-link {
+    color: #e5e7eb !important;
+}
+
+.nav-sidebar .nav-link.active {
+    background-color: #374151 !important;
+    color: #ffffff !important;
+}
