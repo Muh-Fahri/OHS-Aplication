@@ -32,6 +32,7 @@ Route::middleware(['auth', 'role:user'])->group(function () {
 
     // incident notification
     Route::get('/user/incident_notification', [IncidentNotificationController::class,'IncidentNotification'])->name('user.incidentNotification');
+    Route::post('/user/incident_notification', [IncidentNotificationController::class, 'AddIncidentNotification'])->name('user.incidentNotification.submit');
 
     // incident investigation
     Route::get('/user/incident_investigation', [IncidentInvestigationController::class, 'incidentInvestigation'])->name('user.incidentInvestigation');

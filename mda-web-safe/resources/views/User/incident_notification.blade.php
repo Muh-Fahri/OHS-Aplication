@@ -69,195 +69,59 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
-                                </tbody>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <a href="#" class="btn btn-primary btn-sm">View</a>
-                                        </td>
-                                        <td>1</td>
-                                        <td>1</td>
-                                        <td>2025-01-25</td>
-                                        <td>
-                                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
-                                        </td>
-                                        <td>2025-01-25 13:00</td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td>Lorem ipsum dolor sit amet.</td>
-                                        <td><span class="badge bg-warning text-dark">Waiting...</span></td>
-                                        <td>Lorem, ipsum.</td>
-                                        <td></td>
-                                        <td>Lorem ipsum dolor sit amet consectetur.</td>
-                                        <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
-                                        <td>2025-01-25</td>
-                                    </tr>
+                                    @foreach ( $incident_notification as $data)
+                                        <tr>
+                                            <td>
+                                                <a href="#" class="btn btn-primary btn-sm">View</a>
+                                            </td>
+                                            <td>{{ $data->id }}</td>
+                                            <td>1</td>
+                                            <td>2025-01-25</td>
+                                            <td>
+                                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum, commodi?
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, quaerat.
+                                            </td>
+                                            <td>2025-01-25 13:00</td>
+                                            <td>Lorem, ipsum.</td>
+                                            <td>Lorem ipsum dolor sit amet.</td>
+                                            <td><span class="badge bg-warning text-dark">Waiting...</span></td>
+                                            <td>Lorem, ipsum.</td>
+                                            <td></td>
+                                            <td>Lorem ipsum dolor sit amet consectetur.</td>
+                                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
+                                            <td>2025-01-25</td>
+                                        </tr>
+                                    @endforeach
                                 </tbody>
                             </table>
                         </div>
-                       <div class="pt-5">
-                         <nav aria-label="Page navigation">
-                            <ul class="pagination pagination-sm">
-                                <li class="page-item disabled">
-                                    <a class="page-link text-secondary" href="#" aria-label="Previous">
-                                        &laquo;
-                                    </a>
-                                </li>
+                        <div class="pt-5">
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination pagination-sm">
+                                    <li class="page-item disabled">
+                                        <a class="page-link text-secondary" href="#" aria-label="Previous">
+                                            &laquo;
+                                        </a>
+                                    </li>
 
-                                <li class="page-item active">
-                                    <a class="page-link bg-secondary border-secondary" href="#">1</a>
-                                </li>
-                                <li class="page-item">
-                                    <a class="page-link text-secondary" href="#">2</a>
-                                </li>
-                                <li class="page-item">
-                                    <a class="page-link text-secondary" href="#">3</a>
-                                </li>
+                                    <li class="page-item active">
+                                        <a class="page-link bg-secondary border-secondary" href="#">1</a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link text-secondary" href="#">2</a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link text-secondary" href="#">3</a>
+                                    </li>
 
-                                <li class="page-item">
-                                    <a class="page-link text-secondary" href="#" aria-label="Next">
-                                        &raquo;
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav>
-                       </div>
+                                    <li class="page-item">
+                                        <a class="page-link text-secondary" href="#" aria-label="Next">
+                                            &raquo;
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
                     </div>
                 </div>
             </div>
